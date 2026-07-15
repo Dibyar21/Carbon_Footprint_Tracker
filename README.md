@@ -23,9 +23,7 @@ A simple and interactive **Carbon Footprint Tracker** built using **HTML, CSS, a
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
 - Google Fonts (Poppins)
 - Font Awesome Icons
 
@@ -150,8 +148,8 @@ This project is open-source and available under the **MIT License**.
 
 **Dibyaranjan Jena**
 
-- GitHub: https://github.com/YourUsername
-- LinkedIn: https://www.linkedin.com/in/YourLinkedInUsername/
+- GitHub: https://github.com/Dibyar21
+- LinkedIn: https://www.linkedin.com/in/dibyaranjan-jena-1761a2294/
 
 ---
 

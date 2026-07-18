@@ -4,6 +4,17 @@ A simple and interactive **Carbon Footprint Tracker** built using **HTML, CSS, a
 
 ---
 
+<p align="center">
+  <a href="https://carbon-footprint-tracker-bcz7.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge"/>
+  </a>
+
+  <a href="https://github.com/Dibyar21/Carbon-Footprint-Tracker">
+    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+
 ## 🚀 Features
 
 - 🌍 Calculate carbon footprint based on travel distance.

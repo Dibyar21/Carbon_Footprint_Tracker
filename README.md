@@ -1,9 +1,5 @@
 # 🌍 Carbon Footprint Tracker
 
-A simple and interactive **Carbon Footprint Tracker** built using **HTML, CSS, and JavaScript**. This web application estimates the carbon emissions produced during a trip based on the distance traveled and the selected mode of transportation. It also provides eco-friendly suggestions to encourage sustainable travel habits.
-
----
-
 <p align="center">
   <a href="https://carbon-footprint-tracker-bcz7.vercel.app/">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge"/>
@@ -14,6 +10,9 @@ A simple and interactive **Carbon Footprint Tracker** built using **HTML, CSS, a
   </a>
 </p>
 
+A simple and interactive **Carbon Footprint Tracker** built using **HTML, CSS, and JavaScript**. This web application estimates the carbon emissions produced during a trip based on the distance traveled and the selected mode of transportation. It also provides eco-friendly suggestions to encourage sustainable travel habits.
+
+---
 
 ## 🚀 Features
 
